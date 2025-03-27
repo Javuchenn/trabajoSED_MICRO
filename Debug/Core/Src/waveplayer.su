@@ -1,0 +1,8 @@
+../Core/Src/waveplayer.c:112:9:PlayerInit	16	static
+../Core/Src/waveplayer.c:130:20:AUDIO_PLAYER_Start	24	static
+../Core/Src/waveplayer.c:175:7:get_name	4	static
+../Core/Src/waveplayer.c:180:7:quitar_extension	24	static
+../Core/Src/waveplayer.c:195:20:AUDIO_PLAYER_Process	32	static
+../Core/Src/waveplayer.c:307:20:AUDIO_PLAYER_Stop	8	static
+../Core/Src/waveplayer.c:322:6:AUDIO_OUT_TransferComplete_CallBack	4	static
+../Core/Src/waveplayer.c:335:6:AUDIO_OUT_HalfTransfer_CallBack	4	static

@@ -1,0 +1,4 @@
+../Core/Src/File_Handling.c:39:9:AUDIO_StorageParse	352	static
+../Core/Src/File_Handling.c:87:10:AUDIO_GetWavObjectNumber	8	static
+../Core/Src/File_Handling.c:92:6:Mount_USB	8	static
+../Core/Src/File_Handling.c:97:6:Unmount_USB	8	static
